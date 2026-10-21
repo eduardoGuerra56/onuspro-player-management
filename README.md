@@ -10,6 +10,8 @@
 
 ![Lista de players](docs/screenshots/lista.png)
 
+**Vídeo de demonstração:** [assistir no YouTube](https://www.youtube.com/watch?v=Flc3UOW0sSE) (apresentação da versão original de 2022).
+
 ## O problema
 
 Na hora de inscrever o time num campeonato, muitas organizações precisam juntar às pressas os dados de cada jogador (nick, nome, e-mail, nascimento e CPF) e acabam perdendo o prazo de inscrição. O sistema guarda esses dados num só lugar, prontos para consulta.
